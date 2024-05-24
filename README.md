@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Shah</h1>
-<h3 align="center">A Senior Flutter developer from Nepal</h3>
+<h3 align="center">A Junior Flutter developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Aayulogic**
 
