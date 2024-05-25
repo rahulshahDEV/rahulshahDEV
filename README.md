@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Shah</h1>
 <h3 align="center">A Junior Flutter developer from Nepal</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulshahdev&label=Profile%20views&color=00ff00&style=plastic" alt="rahulshahdev" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshahdev&" alt="rahulshahdev" /></p>
 
 - 🔭 I’m currently working on **Aayulogic**
 
