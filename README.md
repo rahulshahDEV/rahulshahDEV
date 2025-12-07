@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulshahdev&label=Profile%20views&color=00ff00&style=plastic" alt="rahulshahdev" /> </p>
 
-- 🔭 I’m currently working on **Aayulogic**
+- 🔭 I’m currently working on **Ottr Technology**
 
 - 🌱 I’m currently learning **Generative AI**
 
