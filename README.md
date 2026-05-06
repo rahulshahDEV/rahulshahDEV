@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **mailme@rahulsha.com.np**
+- 📫 How to reach me **rahul.sah.intl@gmail.com**
 
 - ⚡ Fun fact **I think i'm ravenous foolish guy !**
 
